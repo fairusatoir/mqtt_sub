@@ -50,7 +50,7 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the WTFPL - see the LICENSE.md file for details
+This project is licensed under the MIT LICENSE - see the LICENSE.md file for details
 
 ## Acknowledgments
 
