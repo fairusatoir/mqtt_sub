@@ -52,7 +52,6 @@ Contributors names and contact info
 * Comming Soon - 
     * Various bug fixes and optimizations
     * Added option to save data to txt file
-    * See [commit change]() or See [release history]()
 * 1.0
     * Initial Release
 
