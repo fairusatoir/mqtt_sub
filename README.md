@@ -22,24 +22,26 @@ This code provides a minimal use of Eclipse Paho MQTT Python client library with
 
 * Open Python command prompt
 * Exce code
-```console
-python3 mqtt_sub.py -ip broker.emqx.io -t same/topic
-```
-or
-```console
-python mqtt_sub.py -ip broker.emqx.io -t same/topic
-```
+   ```console
+   python3 mqtt_sub.py -ip broker.emqx.io -t same/topic
+   ```
+   or
+   
+   ```console
+   python mqtt_sub.py -ip broker.emqx.io -t same/topic
+   ```
 
 ## Help
 
 In Python command prompt launch:
-```console
-python3 mqtt_sub.py -h
-```
-or
-```console
-python mqtt_sub.py -h
-```
+   ```console
+   python3 mqtt_sub.py -h
+   ```
+   or
+   
+   ```console
+   python mqtt_sub.py -h
+   ```
 
 ## Authors
 
